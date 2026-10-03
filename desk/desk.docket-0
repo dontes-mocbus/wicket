@@ -1,0 +1,10 @@
+:~  title+'Wicket'
+    info+'See which clients can use this ship, and revoke access.'
+    color+0x1c.1915
+    image+'/wicket/tile.jpg?2'
+    version+[0 1 0]
+    website+''
+    license+'MIT'
+    base+'wicket'
+    site+/wicket/manage
+==

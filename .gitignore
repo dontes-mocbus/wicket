@@ -1,0 +1,23 @@
+# zig build install prefix and cache
+.zig-cache
+zig-out
+
+# Fakezod / Vere (never commit a pier)
+.piers/
+.urb/
+.vere.lock
+put.http
+
+# Grok Build project overlay (localhost MCP URLs, session)
+.grok/
+
+# Accidental Clay unix-mount of %sys
+sys/
+
+# Editor / OS
+*~
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
